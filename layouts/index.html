@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{ partial "header" . }}
+
+<div class="content">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-sm-12 col-lg-8" align="center">
+              <!-- markdown equivalent (without bootstrap): ![](/images/example.jpg) -->
+              <!-- the class and alt are utilizing Bootstrap -->
+              <img src="/images/web-tree-street-bushwick-eco-initiatives.png" class="img-fluid" alt="Responsive image">
+              <p>
+                A community organization in Bushwick, Brooklyn<br /> that focusses on projects that
+                reduce greenhouse gases.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ partial "footer" . }}
+{{ end }}
