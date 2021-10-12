@@ -2,13 +2,10 @@
 draft: false
 ---
 # What is Bushwick Eco Initiatives?
-Bushwick Eco Initiatives is a community organization that works on projects   
-that seek to minimize or reduce the amount of greenhouse gases in the atmosphere.  
+Bushwick Eco Initiatives is a community organization that works on projects that seek to minimize or reduce the amount of greenhouse
+gases in the atmosphere.  
 
-The first project we're working on is to get Bushwick residents access to  
-Curbside Composting; a program currently offered to many other NYC neighborhoods  
-but not Bushwick. Composting can reduce the amount of methane in the atmosphere,   
-as food waste creates methane when it is in landfills due to a lack of oxygen. [1]
+The first project we're working on is to get Bushwick residents access to Curbside Composting; a program currently offered to many other NYC neighborhoods but not Bushwick. Composting can reduce the amount of methane in the atmosphere, as food waste creates methane when it is in landfills due to a lack of oxygen. [1]
 
 
 ### SOURCES:

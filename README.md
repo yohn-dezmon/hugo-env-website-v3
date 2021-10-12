@@ -13,23 +13,23 @@ you overwrite them with files in the root level folder.
 
 ### Commands issued:
 
-Creating project skeleton:
-hugo new site v3-env-website
+Creating project skeleton:  
+`hugo new site v3-env-website`
 
-Starting up git:
-git init
+Starting up git:  
+`git init`
 
-Adding a theme:
-(from root) git submodule add https://github.com/nanxstats/hugo-tanka.git themes/hugo-tanka
+Adding a theme:  
+(from root) `git submodule add https://github.com/nanxstats/hugo-tanka.git themes/hugo-tanka`
 
-Creating Content:
-hugo new posts/my-first-post.md
-hugo new about/bushwick-eco-about.md
+Creating Content:  
+`hugo new posts/my-first-post.md`  
+`hugo new about/bushwick-eco-about.md`
 
-Starting server:
-hugo server -D
+Starting server:  
+`hugo server -D`
 
-How to use markdown with hugo:
+How to use markdown with hugo:  
 https://www.markdownguide.org/tools/hugo/
 
 ## Questions:
