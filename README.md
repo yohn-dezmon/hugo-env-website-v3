@@ -32,6 +32,11 @@ Starting server:
 How to use markdown with hugo:  
 https://www.markdownguide.org/tools/hugo/
 
+### Deploying with Netlify
+
+https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
+
+
 ## Questions:
 
 1. How do I track how many times a link has been clicked?
