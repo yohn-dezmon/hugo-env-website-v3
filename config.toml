@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "/"
 title = "Bushwick Eco Initiatives Website"
 author = "John Desmond"
 canonifyurls = true
